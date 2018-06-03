@@ -1,7 +1,10 @@
-python-pi-hole
-==============
+python-pihole
+=============
 
-Python API for interacting with `Pi-hole <https://pi-hole.net//>`_.
+Python API for interacting with a `Pi-Hole <https://pi-hole.net//>`_ instance.
+
+This module is not official, developed, supported or endorsed by Pi-hole LLC.
+
 
 Installation
 ------------
@@ -31,4 +34,4 @@ For development is recommended to use a ``venv``.
 License
 -------
 
-``python-pi-hole`` is licensed under MIT, for more details check LICENSE.
+``python-pihole`` is licensed under MIT, for more details check LICENSE.
