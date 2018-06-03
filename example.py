@@ -12,9 +12,9 @@ from pihole import PiHole
 
 
 async def main():
-    """Get the data from a Pi-hole instance."""
+    """Get the data from a Pi-Hole instance."""
     async with aiohttp.ClientSession() as session:
-        data = PiHole('192.168.0.214', loop, session)
+        data = PiHole('192.168.0.215', loop, session)
         await data.get_data()
 
         # Get the raw data
