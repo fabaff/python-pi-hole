@@ -25,10 +25,10 @@ if sys.argv[-1] == 'publish':
 setup(
     name='pihole',
     version='0.1.1',
-    description='Python API for interacting with Pi-hole.',
+    description='Python API for interacting with Pi-Hole.',
     long_description=long_description,
-    url='https://github.com/fabaff/python-pi-hole',
-    download_url='https://github.com/fabaff/python-pi-hole/releases',
+    url='https://github.com/fabaff/python-pihole',
+    download_url='https://github.com/fabaff/python-pihole/releases',
     author='Fabian Affolter',
     author_email='fabian@affolter-engineering.ch',
     license='MIT',
