@@ -24,7 +24,7 @@ if sys.argv[-1] == 'publish':
 
 setup(
     name='pihole',
-    version='0.1.0',
+    version='0.1.1',
     description='Python API for interacting with Pi-hole.',
     long_description=long_description,
     url='https://github.com/fabaff/python-pi-hole',
