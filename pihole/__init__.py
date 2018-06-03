@@ -20,12 +20,12 @@ class PiHole(object):
     """A class for handling connections with a Pi-hole instance."""
 
     def __init__(self, host, loop, session, location='admin', tls=False,
-                 verifiy_tls=True):
+                 verify_tls=True):
         """Initialize the connection to a Pi-hole instance."""
         self._loop = loop
         self._session = session
         self.tls = tls
-        self.verify_tls = verifiy_tls
+        self.verify_tls = verify_tls
         self.schema = 'https' if self.tls else 'http'
         self.host = host
         self.location = location
