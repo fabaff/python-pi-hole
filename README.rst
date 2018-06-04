@@ -5,6 +5,10 @@ Python API for interacting with a `Pi-Hole <https://pi-hole.net//>`_ instance.
 
 This module is not official, developed, supported or endorsed by Pi-hole LLC.
 
+This is a third party module. Pi-hole LLC is not involved in the development
+or providing resources and it may no longer work if Pi-hole LLC is changing
+or breaking their API endpoint.
+
 Installation
 ------------
 
