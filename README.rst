@@ -1,7 +1,14 @@
+This module is obsolete and was renamed: https://github.com/fabaff/python-hole
+
+**Reason**: Unclear situation was the Trademark Owner is refusing to address the questions and make clear statements.
+
+- First part: https://github.com/fabaff/python-pihole/issues/1
+- Second part: https://discourse.pi-hole.net/t/trademark-and-contributions/10274
+
 python-pihole
 =============
 
-Python API for interacting with a `Pi-Hole <https://pi-hole.net//>`_ instance.
+Python API for interacting with a `PI-hole <https://*hole.net//>`_ instance.
 
 This module is not official, developed, supported or endorsed by Pi-hole LLC.
 
