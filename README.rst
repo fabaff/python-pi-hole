@@ -1,6 +1,6 @@
 This module is obsolete and was renamed: https://github.com/fabaff/python-hole
 
-**Reason**: Unclear situation was the Trademark Owner is refusing to address the questions and make clear statements.
+**Reason**: Unclear situation as the Trademark Owner is refusing to address the questions and make clear statements.
 
 - First part: https://github.com/fabaff/python-pihole/issues/1
 - Second part: https://discourse.pi-hole.net/t/trademark-and-contributions/10274
